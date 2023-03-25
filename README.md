@@ -43,7 +43,7 @@
 
 ## Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shalika001&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gimhanikav&theme=radical)](https://git.io/streak-stats)
 
 
-![Shalika's Github Status](https://github-readme-stats.vercel.app/api?username=Shalika001&show_icons=true&theme=radical&card_width=100) [![Shalika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalika001&layout=compact&theme=radical&card_width=250)](https://github.com/Shalika001/github-readme-stats)
+![Gimhani's Github Status](https://github-readme-stats.vercel.app/api?username=gimhanikav&show_icons=true&theme=radical&card_width=100) [![Gimhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhanikav&layout=compact&theme=radical&card_width=250)](https://github.com/gimhanikav/github-readme-stats)
